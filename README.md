@@ -19,7 +19,7 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=tu_usuario&show_icons=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=AresLOLXD&show_icons=true)
 
 ## Contacto
 
