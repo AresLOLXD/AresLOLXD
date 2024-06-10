@@ -4,18 +4,16 @@
 
 ## Sobre mí
 
-- 🌱 Actualmente estoy aprendiendo Rust.
+- 🌱 Actualmente estoy aprendiendo Rust y Ciberseguridad.
 - 💼 Trabajo como Desarrollador Senior Backend/Soporte/Infraestructura en SisvoxSoft.
 - 💬 Estoy interesado en Backend.
-- 📫 Cómo contactarme: [tu correo electrónico o enlaces a tus redes sociales].
+- 📫 Cómo contactarme: aresulises8@hotmail.com.
 
 ## Proyectos destacados
 
 Aquí hay una lista de algunos de mis proyectos destacados:
 
-- [Nombre del Proyecto](enlace): Breve descripción del proyecto.
-- [Nombre del Proyecto](enlace): Breve descripción del proyecto.
-- [Nombre del Proyecto](enlace): Breve descripción del proyecto.
+- [Animal Wars](https://github.com/AresLOLXD/animal-wars): Proyecto desarrollado para la Game Jam 2024, utiliza tecnologias como React, TypeScript y Vite.
 
 ## Estadísticas de GitHub
 
@@ -26,7 +24,6 @@ Aquí hay una lista de algunos de mis proyectos destacados:
 ¡No dudes en contactarme! Puedes encontrarme en:
 
 - [LinkedIn](https://www.linkedin.com/in/areslolxd/)
-- [Twitter](enlace a tu perfil de Twitter)
-- [Correo Electrónico](tu correo electrónico)
+- [Correo Electrónico](aresulises8@hotmail.com)
 
 ¡Gracias por visitar mi perfil!
